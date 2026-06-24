@@ -1,0 +1,4 @@
+{
+  "productionDomain": "REPLACE_WITH_VERCEL_DOMAIN",
+  "_note": "Set productionDomain to the Vercel production domain for this repo (e.g. demo-build-bot.vercel.app, no scheme, no trailing slash). The Demo Build Bot reads this to construct live links: https://<productionDomain>/<slug>. Until it is set, the bot will skip building and post a notice instead."
+}
